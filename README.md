@@ -18,10 +18,8 @@ Display the height of the tree.
 
 ### Example:
 
-**Insert words:** 
-
+Insert words: 
 "apple", "banana", "cherry".
-
 Perform in-order traversal.
 
 ### Expected output: 
