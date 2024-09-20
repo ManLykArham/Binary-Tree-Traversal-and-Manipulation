@@ -1,41 +1,46 @@
-# 🌳 Binary-Tree-Traversal-and-Manipulation
+# 🌳 Binary Tree Traversal and Manipulation
 
 ## 🚀 Project Overview and Learning Outcomes
 
-In this project, I implemented a **Binary Search Tree (BST)** using C#. The project includes key functionalities like **node insertion**, various **tree traversal methods** (in-order, pre-order, post-order), and **height calculation**. Users can interact with the tree through a console-based interface, making it easy to see how the binary tree works behind the scenes. 🎮
+In this project, I implemented a Binary Search Tree (BST) in C#. It includes key functionalities such as **node insertion**, **tree traversal** (in-order, pre-order, and post-order), and **height calculation**. The project uses a console-based interface that lets users interact with the tree, allowing them to see how the tree functions internally while gaining a better understanding of tree operations. 🖥️
+
+Through this project, I deepened my knowledge of recursion and binary trees, which are fundamental in many computer science applications. Implementing traversal algorithms and optimizing tree operations provided valuable experience in structuring data efficiently for fast retrieval. 📈
 
 ---
 
-### 🎯 Achievements
+## ✨ Features
 
-This project gave me the opportunity to dive deep into **recursion** and the workings of **binary trees**—fundamental concepts in computer science. By implementing tree traversal algorithms and optimising tree operations, I sharpened my understanding of how to efficiently **organise** and **retrieve data**. This project particularly enhanced my skills in solving complex problems using structured approaches like **recursive functions**. 🔄
-
----
-
-### ✨ Overall
-
-Working on this Binary Search Tree was a milestone in translating abstract theoretical concepts into real-world applications. I gained insight into how binary trees lay the groundwork for many important algorithms, and how **recursion** simplifies otherwise complex operations. This project not only helped me improve my **algorithm design** skills, but also allowed me to understand the broader implications of **data structure management** in software development. 💻
+- **Node Insertion**: Add new nodes (words) into the binary search tree.
+- **Tree Traversal**: Perform in-order, pre-order, or post-order traversal.
+- **Height Calculation**: Compute the height of the binary tree.
+- **Console Interface**: Users can interact with the tree directly via the command line.
 
 ---
 
-## 🛠️ Instructions
+## 🛠️ How to Use
 
-1. **🌱 Insert Words into the Tree:**  
-   Input words to add them to the binary search tree.
-
-2. **🔍 Tree Traversal:**  
-   Choose between in-order, pre-order, or post-order traversal to display the tree’s elements.
-
-3. **📏 Check Tree Height:**  
-   Get the height of the tree based on its structure.
+1. **Insert Words into the Tree**: Input words to add them to the binary search tree.
+2. **Perform Tree Traversal**: Choose from in-order, pre-order, or post-order to display the tree structure.
+3. **Check Tree Height**: View the height of the tree based on its current structure.
 
 ---
 
-### 📊 Example
+### 📊 Example Usage
 
-**Insert words:**  
-`"apple", "banana", "cherry"`  
+- Insert the words: `apple`, `banana`, `cherry`.
+- Select **in-order traversal**.
 
-**Perform in-order traversal:**  
-`Expected Output: "apple, banana, cherry"`
+**Expected Output**:  
+`apple, banana, cherry`
 
+---
+
+## 🏆 Achievements
+
+This project was key to enhancing my understanding of **recursion** and **tree-based algorithms**, both of which play an important role in efficient data organization. By building out traversal algorithms and handling tree height calculations, I sharpened my ability to solve problems using **recursion**. I also learned how to manage dynamic data structures that adjust in real-time based on user input.
+
+---
+
+## 🌟 Overall
+
+Building this Binary Search Tree was a pivotal experience in learning how **data structures** work in practice. The project reinforced the power of recursion in simplifying complex tasks, and I got to see how binary trees serve as a backbone for various search and retrieval algorithms in computer science. This hands-on approach gave me valuable insight into how theoretical concepts are applied to solve real-world
