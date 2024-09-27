@@ -35,6 +35,14 @@ Through this project, I deepened my knowledge of recursion and binary trees, whi
 
 ---
 
+## 🎥 Demo
+
+Watch the demo of the AI Image Generator Web App:
+
+[Demo Video](https://youtu.be/ayJ-FFndDaQ?si=Lwq01eCVee8SKku2)
+
+---
+
 ## 🏆 Achievements
 
 This project was key to enhancing my understanding of **recursion** and **tree-based algorithms**, both of which play an important role in efficient data organization. By building out traversal algorithms and handling tree height calculations, I sharpened my ability to solve problems using **recursion**. I also learned how to manage dynamic data structures that adjust in real-time based on user input.
