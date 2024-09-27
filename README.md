@@ -37,7 +37,7 @@ Through this project, I deepened my knowledge of recursion and binary trees, whi
 
 ## 🎥 Demo
 
-Watch the demo of the AI Image Generator Web App:
+Watch the demo of the Binary Tree Traversal and Manipulation project:
 
 [Demo Video](https://youtu.be/ayJ-FFndDaQ?si=Lwq01eCVee8SKku2)
 
